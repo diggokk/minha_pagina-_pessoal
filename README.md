@@ -1,2 +1,2 @@
-# minha_pagina-_pessoal
+# minha_pagina_pessoal
 Minha página pessoal que diz sobre mim
